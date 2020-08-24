@@ -1,0 +1,25 @@
+input 
+{
+	width:100px;
+	height:50px;
+	font-size:45px;
+	border-radius:10px;
+	margin:10px;
+	background-color:black;
+	color:white;
+	border-style:none;
+}
+
+#mycal
+{
+	margin-top:10px;
+	margin-left:375px;
+}
+h1
+{
+	text-align:center;
+	font-size:50px;
+	margin-right:100px;
+	margin-top:30px;
+	margin-bottom:10px;
+}
